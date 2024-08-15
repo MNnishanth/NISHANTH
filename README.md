@@ -1,9 +1,9 @@
-<h1 align="center">welcome to my Profile👋, I'm Er.N.NISHANTH</h1>
+<h1 align="center">welcome to my Profile👋, I'm N.NISHANTH</h1>
 <h3 align="center">Electrical engineer passionate about Embedded system,Analog circuit design and PCB designing.proficient in C,C++,Embedded Linux.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishanth" alt="nishanth" /></a> </p>
+- 🌱 I’m currently learning **Embedded firmware**
 
 - 📫 How to reach me **nishanthneelamegamm@gmail.com**
 
@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanth&show_icons=true&locale=en" alt="nishanth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanth&" alt="nishanth" /></p>
-
