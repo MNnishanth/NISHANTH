@@ -1,5 +1,6 @@
 <h1 align="center">welcome to my Profile👋, I'm N.NISHANTH</h1>
-<h3 align="center">Electrical engineer passionate about Embedded system,Analog circuit design and PCB designing.proficient in C,C++,Embedded Linux.</h3>
+<h3 align="center">Electrical engineer passionate about Embedded system,Analog circuit design and PCB designing.                                          
+                    proficient in C,C++,Embedded Linux.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth" /> </p>
 
